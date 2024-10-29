@@ -1,4 +1,7 @@
-# KPP_BMS_KantinC.github.io
+# BMS_KantinC.github.io
+
+## BMS (Basic Media School)
+
 **Pastikan Anda sudah diundang terlebih dahulu**
 
 Untuk dapat bergabung ke sebuah proyek dan dapat melakukan pull dan push dari lokal/repo, Anda perlu mengikuti beberapa langkah umum dalam pengelolaan proyek kolaboratif menggunakan sistem kontrol versi seperti Git. Berikut adalah panduan umumnya:
